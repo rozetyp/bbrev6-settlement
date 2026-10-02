@@ -1,0 +1,304 @@
+1RB1RF_1RC0LA_1RD---_1LE0RC_0LE1LA_0RF0RD MitM_CTL n 2 maxT 30000 sim 1001 RWL_mod H 12 tH 0 mnc 2 mod 3 run
+1RB0LA_1RC0LE_1RD---_1LE1RF_---1LA_0RF0RC chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LA_1RC0LF_1RD---_0LE0RB_0RD1LE_0LA0RC chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_1RC1LE_1RD---_0LE1RF_0RC1LA_0RD0RF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_1RC1LE_1RD---_0LE1RF_---1LA_0RC0RF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LE_1RC1LF_1RD0RC_0LE0LF_---0LA_---1LA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LE_1RC0RC_1RD0LE_0LA0RD_0LF1LF_---1LA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LF_1RC0RB_1LD0RE_1LF1RE_---1LA_0LA0RC chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LF_1RC0RA_1LD0RC_0RB1LE_0LD0LF_0LE--- chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RC_1RC---_1LD0RA_0RF1LE_0LD0LE_1RF1RA MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 2 mod 4 run
+1RB1LF_1RC1RA_1LD0RC_0LF1LE_---0LD_0RA0LE chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LD_1RC0LE_1LD1RF_1LA1LE_---0LA_0RC0RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LF_1RC1RE_1LD0RB_1LA0RE_---0RC_0LA0LF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RC_1RC1LE_1LD0RA_1RA0LE_---1LF_0LD0LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0RA_1RC---_1LD---_0LE0LD_0RF1RA_1RF1LE MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 1 mod 3 run
+1RB1LE_1RC---_1LD---_0LE0LD_0RF1RA_1RF0RA MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 1 mod 3 run
+1RB0RA_1RC1LE_1LD---_1RF0RB_0LE0LD_0RF1RA FAR maxT 100000 RWL_mod H 1 tH 0 mnc 1 mod 3 n 1 run
+1RB---_1RC0RC_1LD1RA_0LE0RB_0RA1LF_0LD0LF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LA_1RC1RF_0RD---_1LE1LA_0LE1RD_0RF0RC chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LF_1RC0RB_0RD0LA_1LE0RC_1LA---_0LF0LE chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LF_1RC1LF_0RD0LA_1LE0RC_1LA0LE_---1RD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1RE_1RC1RD_0RD0RC_0RE---_0LF0LA_1LF1LA chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_1RC1RF_0RD---_0LE1LA_1LE1RD_0RC0RF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_1RC---_0RD1RD_0LE1RF_1LE1LA_0RC0RF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LF_1RC---_0RD0RC_0LE0RB_1LE0LA_1RD0LF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1RD_1RC1RF_0RD---_0LE1LA_1LE0LA_0RC0RF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LF_1RC1RD_0RD---_0LE0RB_0LA0RC_1LA0LF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LE_1RC0LE_0RD0RC_1LA0LF_---0LA_1LF1RD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1RD_1RC0LE_0RD0RC_1LA0LF_---0LA_1LF1LE chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LF_1RC0RB_0LD0RE_1LF1RE_1LA---_0LA0RC chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LA_1RC1LD_0LD0RF_0RB1LE_1LA1RF_---0RC chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_1RC1LD_0LD0RF_0RC1LE_1LA1RF_---0RB chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0RA_1RC0LE_0LD1RA_---1LE_0LF1LF_0RB1LD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_1RC1LD_0LD0RC_0RB1LE_1LA1LF_0LA0LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB---_1RC1LD_0LD0RB_0RC1LE_1LA1LF_0LA0LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0RA_1RC---_0LD0RC_1RA1LE_1LD0LF_0RB0LE chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_1RC1RF_0LD0RB_1LD1LE_1LA0LE_0RC0RF MitM_CTL n 2 maxT 30000 RWL_mod H 4 tH 0 mnc 2 mod 1 run
+1RB1LD_1RC0RB_0LD1RF_---1LE_0LE0LA_1LA0RF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LE_1RC---_0LD0RF_0RC1LE_1RF0LA_0RB1LD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LE_1RC---_0LD0RC_0RF1LE_1RF0LA_0RB1LD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_1RC0RC_0LD0RB_0LF1LE_1LD0LA_1LF0LE chr_H 0 chr_LRUH 0 chr_LRUn 1 chr_asth 0 MitM_CTL n 1 maxT 2000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LE_1RC---_0LD0RF_1LE1LD_0LA1RF_0RB0RC chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LE_1RC---_0LD1LE_0RC1LD_0LA0RF_0RB1RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LE_1RC---_0LD0RA_0RC1LD_0LF0RB_1RA1LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0RC_1RC---_0LD1LE_1RA1LD_0LF0RA_0RB0LE chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LE_1RC---_0LD1RA_0RA1LD_0LF0RB_0RC1LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LE_1RC---_0LD1LE_0LA1LD_0RC0RF_0RB1RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LE_1RC---_0LD1LE_1LD0RC_0LA1RF_0RB0RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LE_1RC1LD_0LD0RF_0RB1LA_0LA0LE_---0RC chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LE_1RC1LD_0LD0RF_0RC1LA_0LA0LE_---0RB chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LD_1RC0RB_1LA1RF_0RF1LE_0LA0RC_---0LE chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LD_1RC1RE_1LA0RC_0LF0LA_0RB1LF_---0LD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LD_1RC0RE_1LA0RC_0LF0LA_0RB1LF_0LD--- chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LD_1RC0RB_1LA1RF_0RF1LE_0LA0RC_0LE--- chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LD_1RC0RB_1LA0RF_1LD1LE_0LA---_0RC0LE chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LD_1RC1LE_1LA1RF_0LA0RC_0RF1LD_---0RB chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LD_1RC0LE_1LA1RF_0LA0RC_0RF1LD_0RB--- chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LD_1RC0RB_0LA0RC_1LE0LD_1LF---_1LA--- chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LD_1RC---_0LA1RF_1LE0LD_0RC0LE_0RF0RB chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LD_1RC0RB_0LA0RC_1LE0LD_1LA---_------ chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LD_1RC1RE_0LA0RC_0LF1LA_0RB1LF_---0LD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LD_1RC0RE_0LA0RC_0LF1LA_0RB1LF_0LD--- chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LD_1RC1RF_0LA0RF_0RB1LE_1LD1LA_---0RC chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LD_1RC0RF_0LA1RF_0RC1LE_1LA1LD_---0RB chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LD_1RC1RE_0LA0LF_---1LA_0RC0RE_1LF1LD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LD_1RC1RE_0LA0LF_---1LA_0RC1LF_0RE1LD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LF_1LC0RE_1LA1RD_0LF1RE_0RB0LA_---0LC chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RA_1LC0RD_1LF1RD_---1LE_1RA0LF_0LE0RB chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_1LC---_0LA1RD_0RD0RE_0RB1LF_0LF0LC MitM_CTL n 2 maxT 100000 sim 1001 CPS_LRU LRUH 16 H 1 tH 1 run
+1RB0LF_1LC---_0LA1RD_1RE0RD_0RB0RE_0LC1LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LA_1LC0LF_0LA1RD_1RE0RD_0RB---_0RE0LC chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LF_1LC0RB_0LA1RD_0RE0RD_1LA---_0LC1RE chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_1LC1RF_1LE1RD_---0RB_0LE1LA_0RF0RD chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_1LC1RF_1LE1RD_0RF0RB_0LC1LA_---0RD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LA_1LC1RF_1LE1RD_0RD0RB_0RF1LA_---0LC chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_1LC1RF_0LE1RD_---0RB_1LE1LA_0RD0RF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_1LC1RF_0LE1RD_0RF0RB_0LC1LA_0RD--- chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LA_1LC1RF_0LE1RD_0RD0RB_0RF1LA_0LC--- chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_1LC1RF_0LC1RD_1LE0RB_0RF1LA_---0RD chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_1LC1RF_0LC1RD_0LE0RB_0RF1LA_0RD--- chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LD_1LC---_0LC1LD_1RE0LA_0RB1RF_0RF0RE chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_1LC0RE_0LC1LD_1RE1LA_---1RF_0RF0RB chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RA_1LC---_0RE1LD_1RE0LC_0LD0RF_0RB1RA chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0RA_1LC1RA_1LF1LD_1RE0LC_0RB0LF_---0LD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RA_1LC1RA_0RE1LD_1RE0LF_0LD0RB_0LC--- chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1LB---_1RC0RE_0RC1RD_1RE0RD_1LF---_0LF0LB FAR maxT 100000 RWL_mod H 1 tH 0 mnc 2 mod 4 n 1 run
+1RB0LD_1LC0RF_1RF1LD_1LE---_0LC0LE_0RB0RA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LD_1LC0RB_0RF1LD_1LE---_0LC0LE_1RF0RA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1LB---_1RC0RE_0RC1RD_1RE0RD_1RA1LF_0LF0LB FAR maxT 100000 RWL_mod H 1 tH 0 mnc 2 mod 6 n 1 run
+1RB0RA_1LC---_1RE1LD_0RE0LD_0LC1RF_0RB1RA chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0RA_1LC1RA_1LF1LD_0RE0LC_0RB0LF_0LD--- chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RA_1LC1RE_1RA1LD_0RE1LF_---0LF_0LC0RB chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LD_1LC1RF_0LC1LD_0RE0LA_---1LA_0RF0RB MitM_CTL n 2 maxT 30000 RWL_mod H 4 tH 0 mnc 2 mod 1 run
+1RB0RA_1LC---_---1LD_0LE0LD_0RF0LC_1RF1RA MitM_CTL n 2 maxT 30000 RWL_mod H 4 tH 0 mnc 2 mod 1 run
+1RB0LD_1LC0RB_0RF1LD_0LE---_0LC1LE_0RA1RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_1LC0RF_0RE1LD_0LC0LD_1RE1RF_1RA0RB MitM_CTL n 4 maxT 10000 CPS_LRU LRUH 4 H 0 tH 1 run
+1RB0RB_1LC0RA_0RE1LD_0LC0LD_1RE0LF_---1RA MitM_CTL n 2 maxT 30000 RWL_mod H 4 tH 0 mnc 2 mod 1 run
+1RB1RF_1LC---_0RE1LD_0LC0LD_1RE1RA_0RB0RF MitM_CTL n 2 maxT 100000 sim 1001 CPS_LRU LRUH 16 H 1 tH 1 run
+1RB0LF_1LC---_0RE1LD_0LC0LD_1RE1RA_---0RB MitM_CTL n 2 maxT 30000 RWL_mod H 4 tH 0 mnc 2 mod 1 run
+1RB0RB_1LC1LF_0RE1LD_0LC0LD_1RE1RA_0RA--- MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 2 mod 6 run
+1RB0LA_1LC1RE_1LA1LD_0LC1RF_0RF0RB_---0RE chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1RE_1LC0RB_0RA1LD_0LC0LF_1RA1LF_---0LD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RE_1LC0RB_0RA1LD_0LC0LF_1RA1LF_0LD--- chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LC_1LC1RE_0LA1LD_1LA0RE_---1RF_0RB0RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LA_1LC1RE_0LC1LD_1LA0RE_---1RF_0RF0RB chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LC_1LC0RE_0LA1LD_1LA1RE_---1RF_0RB0RF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_1LC0RE_0LC1LD_1LA1RE_---1RF_0RF0RB chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LF_1LC0RE_1LA0RD_0LF1RE_0RB0LA_0LC--- chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1RD_1LC0RA_1LE0RD_---0RB_1RA1LF_0LE0LF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RF_1LC1RD_1LE0RD_---0RB_0LA0LE_1RF1LA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RF_1LC1LA_1LE0RD_---0RB_0LA0LE_1RF1RD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LA_1LC0RE_0LC0LD_1RE1LA_1RF---_0RF0RB chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RA_1LC---_0LC0LD_1RE0RB_0RF---_0RE1RA chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0RA_1LC1RA_0LF0LD_1RE0RB_0RE1LD_0LC--- chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0RA_1LC---_0LC0LD_1RE0RB_0RE1RA_------ FAR maxT 100000 RWL_mod H 1 tH 0 mnc 1 mod 2 n 1 run
+1RB1LD_1LC0RF_1RF0LD_1LE---_0LC0LE_0RB0RA chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LD_1LC0RF_1RF0LD_1LE---_0LC0LE_0RA0RB chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LD_1LC0RB_0RF0LD_1LE---_0LC0LE_1RF0RA chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1RA_1LC0RF_0RA0LD_1LE1LD_0LC---_0RB0LE chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RA_1LC1RE_1RA0LD_0RE1LF_0LF---_0LC0RB chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_1LC0RB_1RF0LD_0LE1LD_0LC1RA_0RA0RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LE_1LC1RF_1RA0LD_0LC0RB_0RF1LD_---0RA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LE_1LC1RF_1RA0LD_0LC0RB_0RF1LD_0RA--- chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LA_1LC1RE_1LA0LD_0LC1RF_0RF0RB_0RE--- chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LC_1LC1RE_0LA0LD_1LA0RE_1RF---_0RB0RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LA_1LC1RE_0LC0LD_1LA0RE_1RF---_0RF0RB chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1LB---_1RC1LE_0RC0RD_1RA1RF_0LE0LB_0RA0RF FAR maxT 100000 RWL_mod H 1 tH 0 mnc 2 mod 4 n 1 run
+1RB0LC_1LC0RE_0LA0LD_1LA1RE_1RF---_0RB0RF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_1LC0RE_0LC0LD_1LA1RE_1RF---_0RF0RB chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB---_1LC0RD_1RD0LC_1LE1RA_0RB0LF_0LE0RA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_1LC0RB_1RD0LC_1LE1RF_0RA0LE_1RA--- chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB---_1LC0RB_1RD0LC_1LE1RA_0RA0LE_------ chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB---_1LC0RE_1RD0LC_0RB1LF_0RD1LA_0LA0LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_1LC1RE_1LD0LC_0RE1LA_---1RF_0RF0RB chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB---_1LC0RF_1LD0LC_0RE0LA_1RF1LA_0RB0LD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RE_1LC---_1LD0LC_1RA0LF_1RE0RA_0LD0RB chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LA_1LC1RE_0LD0LC_0RE1LA_1RF---_0RF0RB chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0RA_1LC---_0LD0LC_0RE1RA_1RF1LD_1RE--- chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LD_1LC---_0LD0LC_0RE1RA_1RF0RA_1RE--- chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB---_1LC---_0LD0LC_0RE1RA_1RE1RF_0RA0RF MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 1 mod 3 run
+1RB0RF_1LC---_0LD0LC_0RE1RA_1RE1RF_0RA1LD MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 1 mod 3 run
+1RB---_1LC---_0LD0LC_0RE1RF_1RE0RF_1RA1LD MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 1 mod 3 run
+1RB---_1LC---_0LD0LC_0RE1RF_1RE1LD_1RA0RF MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 1 mod 3 run
+1RB1RF_1LC---_0LD0LC_0RE1RA_1RE1LD_0RA0RF MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 1 mod 3 run
+1RB0RA_1LC---_0LD0LC_0RE1RA_1RE1LD_------ MitM_CTL n 2 maxT 100000 sim 1001 CPS_LRU LRUH 16 H 1 tH 1 run
+1RB1LF_1LC0RA_0LD0LC_0RE1RA_1RE0RB_1LD--- MitM_CTL n 2 maxT 300000 sim 1001 RWL_mod H 4 tH 0 mnc 1 mod 5 run
+1RB1LF_1LC1LD_0LD0LC_0RE1RA_1RE0RA_0RB--- MitM_CTL n 2 maxT 100000 sim 1001 CPS_LRU LRUH 16 H 1 tH 1 run
+1RB1LD_1LC---_0LD0LC_0RE1RA_1RE0RA_------ MitM_CTL n 2 maxT 100000 sim 1001 CPS_LRU LRUH 16 H 1 tH 1 run
+1RB0LA_1LC0RE_0LD0LC_1LA---_0RF1RE_0RB1LD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RA_1LC0LD_0RB0LC_0LE---_0RF1RA_1RF1LE MitM_CTL n 2 maxT 100000 sim 1001 CPS_LRU LRUH 16 H 1 tH 1 run
+1RB1LE_1LC0LD_0RB0LC_0LE---_0RF1RA_1RF0RA MitM_CTL n 2 maxT 100000 sim 1001 CPS_LRU LRUH 16 H 1 tH 1 run
+1RB1LD_1LC0RA_0RB0LC_0LE0LD_0RF---_1RF1RA MitM_CTL n 2 maxT 30000 RWL_mod H 4 tH 0 mnc 2 mod 1 run
+1RB0LD_1LC0RA_0RB0LC_1LE1LD_0RF---_1RA1RF MitM_CTL n 2 maxT 30000 RWL_mod H 4 tH 0 mnc 2 mod 1 run
+1RB1LE_1LC1RD_1LA0LC_0LE1RF_---0RF_0RB0LA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LE_1LC0RD_1LA0LC_0LE1RF_0RF---_0RB0LA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LF_1LC0RD_1LA0LC_1RD1RE_0RB---_0LA0RE chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LD_1LC---_0RE1RA_0LC0LD_1RE1RF_0RA0RF MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 1 mod 3 run
+1RB0LF_1LC1RD_0LC1LA_0RD0RE_0RB---_1RE0LA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LF_1LC1RD_0LC1LA_0RD0RE_0RB---_0LA1RE chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LF_1LC1RD_---1LA_---0RE_0LA1RE_0RD1LF MitM_CTL n 2 maxT 100000 sim 1001 CPS_LRU LRUH 16 H 1 tH 1 run
+1RB1LF_1LC1RD_---1LA_1RE0RD_0LA0RE_0LF0LC chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_1LC1RD_1LE1LA_0RF0RB_0LC1RF_---0RD chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_1LC1RD_0LE1LA_0RF0RB_0LC1RF_0RD--- chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LF_1LC0RD_---1LA_1RE1RD_0LA0RE_0LC0LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1RF_1LC0RB_1LD1LA_1RE0LA_0LD0RE_---0LC chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LD_1LC---_---0RA_0LE0LD_0RF0LC_1RF1RA MitM_CTL n 2 maxT 100000 sim 1001 CPS_LRU LRUH 16 H 1 tH 1 run
+1RB0LF_0RC1LE_1RD---_0LE0RD_0RB1LA_1RC0LA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LF_0RC1LE_1RD---_0LE0RB_0RD1LA_1RC0LA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LE_0RC0RB_1RD0LE_1LA0RD_0LF---_1LF0LA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LE_0RC0RB_1RD---_1LA0RD_0LF1LE_0LA1RC chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LE_0RC1RC_1RD0LE_0LA0RD_1LF0LF_---1LA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1RA_0RC0LE_1LD0RB_1LE---_0RA1LF_0LD0LF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LF_0RC0LE_1LD0RB_1LE0LD_0RA0LF_1RC--- chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LD_0RC0LE_1LD1RF_1LE1LA_---0LA_1RC0RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LE_0RC0LF_1LD0RB_0LE---_0RA1LF_0LD1RA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RA_0RC0RB_1LD---_0LE1RA_1RC0LF_0LD1LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0RA_0RC---_1LD0LF_0LE1RA_1RC1LE_0RB0LD chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LF_0RC0LF_1LD0RB_0LE---_0RA1LE_0LD1RA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_0RC0RB_1LD1RA_0LE0LF_1RC0LD_1LE0RA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_0RC0RB_1LD0RA_0LE0LF_1RC0LD_1LE1RA chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0RB_0RC0RA_1LD---_0LE0LD_0RF1RC_1RF1RA MitM_CTL n 2 maxT 300000 sim 1001 RWL_mod H 4 tH 0 mnc 1 mod 5 run
+1RB0RA_0RC1RC_1LD---_0LE0LD_0RF1RA_1RF1LE MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 3 tH 0 mnc 2 mod 4 run
+1RB1LE_0RC1RC_1LD---_0LE0LD_0RF1RA_1RF0RA MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 3 tH 0 mnc 2 mod 4 run
+1RB0LE_0RC---_1LD1RF_0LD1LE_1RC0LA_0RF0RB chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_0RC1RF_1LD1LA_0LD1LE_0LA0LE_0RF0RB chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0RA_0RC1RA_1LD---_0LD0LE_1RF0RB_0RF1LE FAR maxT 100000 RWL_mod H 1 tH 0 mnc 1 mod 3 n 1 run
+1RB0RA_0RC---_1LD---_0LD0LE_1RF0RB_0RF1RA FAR maxT 100000 RWL_mod H 1 tH 0 mnc 1 mod 3 n 1 run
+1RB0LA_0RC1RE_1LD1LF_0LD1LA_0RE0LF_0RB--- chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LF_0RC1RE_1LD---_0LD1LA_0RE0RB_1RC0LA chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LF_0RC1RE_1LD---_0LD1LA_0RE0RB_0LA1RC chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LF_0RC0RE_1LD---_0LD1LA_1RE0RB_0LA1RC chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1RD_0RC0RB_0RD---_0LE1LA_1LE0LF_1RC0LA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LF_0RC0RB_0RD---_0LE1LA_1LE1RD_1RC0LA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LF_0RC0RB_0RD1LA_0LE---_1LE0LA_1RD1RC chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LF_0RC0RB_0RD1LA_0LE---_1LE0LA_1RC1RD chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_0RC1LD_0LD1RF_1RE1LA_1RC---_0RE0RF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_0RC0RF_0LD1LA_1LE1RC_1LD1RF_---0RB chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1RC_0RC0RF_0LD1LA_1LE0LA_1LD1RF_---0RB chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0RA_0RC0LE_0LD1RA_1LE---_0LF1LF_0RB1LD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_0RC0RB_0LD1LA_1LE---_1LD1LF_0LA0LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LD_0RC0RB_0LD1LA_1LE---_1RC1LF_0LA0LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LE_0RC---_0LD1RF_1LE1RC_0LA0RF_0RB1LD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LE_0RC---_0LD1RC_1LE1RF_0LA0RF_0RB1LD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1RA_0RC---_0LD0RA_1LE1LD_1RC0LF_0LE0RB chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LA_0RC1RF_0LD0RF_1LE1RC_1LA1LD_---0RB chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LF_0RC0RB_0LD1LA_1LE---_1LD1RC_0LA0LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LD_0RC---_0LD1RA_1LE0LF_1RC0RA_0RB0LE chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LD_0RC0RB_0LD1RF_1LE---_0LE0LA_1LA0RF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1RC_0RC---_0LD0RA_0LE0RB_1RA1LF_1LE0LF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_0RC0RB_0LD1RA_0LE1LD_0RA1LF_1RC0LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB---_0RC0RB_0LD1LA_1LD1LE_1LF0LF_0LA0LE MitM_CTL n 2 maxT 300000 sim 1001 RWL_mod H 4 tH 0 mnc 1 mod 5 run
+1RB---_0RC0RB_0LD1LF_1LD1LE_0LF0LE_1LA--- MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 1 mod 3 run
+1RB---_0RC0RB_0LD1LF_1LD1LE_0LF1RC_1LA0LE MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 1 mod 3 run
+1RB0LE_0RC---_0LD1RF_1LD1LE_1RC0LA_0RB0RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_0RC1RF_0LD1LA_1LD1LE_0LA0LE_0RB0RF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB---_0RC0RF_0LD1LA_1LD1LE_0LA0LE_---0RB chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB---_0RC0RB_0LD1LA_1LD1LE_0LA1LF_0LE0LF MitM_CTL n 2 maxT 300000 sim 1001 RWL_mod H 4 tH 0 mnc 1 mod 5 run
+1RB---_0RC0RB_0LD1LA_1LD1LE_0LA0LE_------ MitM_CTL n 2 maxT 100000 sim 1001 CPS_LRU LRUH 16 H 1 tH 1 run
+1RB1RC_0RC1LE_0LD---_1LD0LE_1RF0LA_0RB0RF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB---_0RC0RB_0LD1RA_1LD0LE_1LF0RA_1RC0LF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_0RC0RB_0LD0RA_1LD0LE_1LF1RA_1RC0LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB---_0RC0RB_0LD1LE_1LD0LE_1LF1RC_1LA--- MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 1 mod 3 run
+1RB---_0RC0RB_0LD1LE_1LD0LE_1LF1RC_0LA1LA MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 3 tH 0 mnc 2 mod 4 run
+1RB---_0RC0RB_0LD0RA_1LD0LE_1RA1LF_1RC0LF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1RC_0RC0RB_0LD1LE_1LD0LE_1LA1RF_0LA--- MitM_CTL n 2 maxT 100000 sim 1001 CPS_LRU LRUH 16 H 1 tH 1 run
+1RB---_0RC0RB_0LD1LE_1LD0LE_1LA1RC_------ MitM_CTL n 2 maxT 100000 sim 1001 CPS_LRU LRUH 16 H 1 tH 1 run
+1RB---_0RC0RB_0LD1LE_1LD1RC_1LA1LF_0LE0LF MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 1 mod 3 run
+1RB---_0RC0RB_0LD1LE_1LD1RC_1LF0LE_1LA--- MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 1 mod 3 run
+1RB---_0RC0RB_0LD1LE_1LD1RC_1LF0LE_0LA1LA MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 3 tH 0 mnc 2 mod 4 run
+1RB---_0RC0RB_0LD1LE_1LD1RC_1LA0LE_------ MitM_CTL n 2 maxT 100000 sim 1001 CPS_LRU LRUH 16 H 1 tH 1 run
+1RB0LE_0RC---_0LD1LE_1LD1RC_1RF0LA_0RB0RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LE_0RC0RF_0LD1LA_1LD1RC_0LA0LE_---0RB chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LF_0RC1RE_0LD---_1LD1LA_0RB0RE_1RC0LA chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LF_0RC1RE_0LD---_1LD1LA_0RB0RE_0LA1RC chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LF_0RC0RE_0LD---_1LD1LA_0RB1RE_0LA1RC chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LE_0RC---_0LD1LE_1LD0LA_1RF1RC_0RB0RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LE_0RC---_0LD1LE_1LD0LA_1RC1RF_0RB0RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LE_0RC0RB_0LD1LE_1LD0LA_1LA1RF_1RC--- MitM_CTL n 2 maxT 300000 sim 1001 RWL_mod H 4 tH 0 mnc 1 mod 5 run
+1RB1LE_0RC---_0LD1RA_1RC1LD_0LF0RA_0RB0LE chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1RC_0RC0RF_0LD1RF_0LA1LE_1LD1LA_---0RB chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1LE_0RC1RD_1LA0RB_1RC0LE_---1LF_0LA0LF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LE_0RC1RD_1LA0RB_1RC1LE_---1LF_0LA0LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB---_0RC1LD_1LA---_0LD0LE_0LA1RF_0RF0RB MitM_CTL n 2 maxT 100000 sim 1001 CPS_LRU LRUH 16 H 1 tH 1 run
+1RB---_0RC1LD_1LA0RF_1LE0LD_0LA0LE_0RB1RF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0RF_0RC1LD_1LA1RC_1LE0LD_0LA---_0LE0RB chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_0RC1LD_1LA0RF_0LE0LD_1RC---_0RB1LE chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LE_0RC0RD_1LA0RB_1RC0LE_1LF---_0LA0LF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LE_0RC0RD_1LA0RB_1RC1LE_1LF---_0LA0LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0RA_0LC0RD_1LF1RD_1LE---_1RA0LF_0LE0RB chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LA_0LC1RF_1LE1RD_0RB---_0LE1LA_0RF0RD chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_0LC1RF_1LE1RD_0RB0RF_1LC1LA_---0RD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LA_0LC1RF_0LE1RD_0RB0RD_0RF1LA_1LC--- chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_0LC1RF_1LC1RD_0RB0LE_0RF1LA_0RD--- chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LE_0LC1RF_0LA1RD_0RB0RF_1LC1LA_---0RD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LD_0LC---_1LC1LD_1RE0LA_0RB1RF_0RE0RF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB---_0LC1RF_1RA1LD_1LE0LD_0RB0LE_0RF0RA chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1RF_0LC0RA_1LC1LD_1LE0LD_1RA---_0RB0RF MitM_CTL n 2 maxT 30000 RWL_mod H 4 tH 0 mnc 2 mod 1 run
+1RB0LD_0LC1RF_---1LD_1LE0LE_1RA1LC_0RA0RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LD_0LC1RF_1LC1LD_1LE0LA_1LA---_0RB0RF MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 2 mod 4 run
+1RB0LD_0LC1RF_1LC1LD_0RE0LA_---1LA_0RB0RF MitM_CTL n 2 maxT 30000 RWL_mod H 4 tH 0 mnc 2 mod 1 run
+1RB---_0LC1LE_1LC1LD_0LE0LD_1RF---_0RB0RF MitM_CTL n 2 maxT 100000 sim 1001 CPS_LRU LRUH 16 H 1 tH 1 run
+1RB---_0LC1LE_1LC1LD_0LE0LD_1LA1RF_0RB0RF MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 1 mod 3 run
+1RB---_0LC0RB_1RE1LD_1LC0LF_1RA0RE_0RA0LD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LA_0LC1RE_1LA1LD_1LC1RF_0RB0RF_---0RE chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1RE_0LC0RB_0RA1LD_1LC0LF_1RA1LF_---0LD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RE_0LC0RB_0RA1LD_1LC0LF_1RA1LF_0LD--- chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_0LC1RE_1LC1LD_1LA1LF_0RB0RE_0LA0LF MitM_CTL n 2 maxT 100000 sim 1001 CPS_LRU LRUH 16 H 1 tH 1 run
+1RB---_0LC1RE_1LC1LD_1LA0RF_0RB0RE_---0LA MitM_CTL n 2 maxT 30000 RWL_mod H 4 tH 0 mnc 2 mod 1 run
+1RB1RF_0LC1RE_1LC1LD_1LA0LA_0RB0RE_0LD--- MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 2 mod 6 run
+1RB---_0LC0RE_1LC1LD_1LA1RF_---0LA_0RB0RF MitM_CTL n 2 maxT 100000 sim 1001 CPS_LRU LRUH 16 H 1 tH 1 run
+1RB0LA_0LC0RE_1LC0LD_1RE1LA_1RF---_0RB0RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1RF_0LC---_1LC0LD_1RE0LA_0RF0RE_0RB1LD chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB---_0LC1LF_1LC0LD_1RE0LF_0RB0RE_1LD1RA MitM_CTL n 2 maxT 300000 sim 1001 RWL_mod H 4 tH 0 mnc 1 mod 5 run
+1RB1RF_0LC1LA_1LC0LD_1RE0LA_0RB---_0RE0RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RA_0LC0LF_---0LD_1RE1LC_1RA1LF_---1LD chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LA_0LC1RE_1LA0LD_1LC1RF_0RB0RF_0RE--- chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RF_0LC1RF_1RA0LD_0RB1LE_1LC1LD_---0RA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LA_0LC1RE_1LC0LD_1LA0RE_1RF---_0RB0RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LA_0LC0RE_1LC0LD_1LA1RE_1RF---_0RB0RF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB---_0LC0RD_1RD1LC_1RA1LE_0RB0LF_0LE0RA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1RA_0LC---_1LD1LC_1LE0RA_1RF0LD_0LE0RF MitM_CTL n 2 maxT 30000 RWL_mod H 4 tH 0 mnc 2 mod 1 run
+1RB0RE_0LC---_1LD1LC_1RA0LF_0RA1RE_0LD0RB chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_0LC0RB_0RD1LC_1RA1LE_1RD0LF_0LE0RA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_0LC1RD_0RD1LC_0RA0LE_1RA0LF_0RB1LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_0LC1RE_0LD1LC_0RE1LA_1RF---_0RB0RF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB---_0LC0RF_0LD1LC_0LE0RA_1RF0RB_1RA1LE chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_0LC1LE_0LD1LC_0LE0RA_1RF0RB_1RA0RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_0LC1LE_0LD1LC_1RA0LE_0RB0RF_0RA1RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0RE_0LC1RA_0LD1LC_0RA1LD_0LF1RE_---0RB MitM_CTL n 1 maxT 1000000 sim 1001 RWL_mod H 4 tH 0 mnc 2 mod 2 run
+1RB---_0LC1LD_0RB1LC_0LE0RF_1RA0LD_0RA1RF chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB---_0LC0RD_0RB1LC_1RA0LE_0LF0RA_1RD1LF chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LF_0LC0RD_1LA1LC_1RE1RD_0RB---_0LA0RE chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LF_0LC1RD_1LC1LA_0RE0RD_0RB---_1RE0LA chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LF_0LC1RD_1LC1LA_0RE0RD_0RB---_0LA1RE chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB1RE_0LC1RD_---1LA_0RE0RD_0LA0LF_1LF1LC chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
+1RB0LA_0LC1RD_1LE1LA_0RB0RF_1LC1RF_---0RD chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LA_0LC1RD_0LE1LA_0RB0RF_1LC1RF_0RD--- chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB1LE_0LC1RD_1LC1LA_0RB0RD_0LA0LF_---0LE MitM_CTL n 1 maxT 100000 sim 1001 RWL_mod H 2 tH 0 mnc 2 mod 6 run
+1RB0LC_0LA0RB_1RD1RF_1LE0RD_1LA1LC_---0LE chr_H 2 chr_LRUH 6 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 30000 NG NG_n 3 tH 0 pos_mod 1 run
+1RB0LC_0LA0RB_1LA1RD_0RE0RD_0LF---_1LF1LC MitM_CTL n 2 maxT 30000 RWL_mod H 4 tH 0 mnc 2 mod 1 run
+1RB0LC_0LA0RB_1LA0RD_1RE1RD_0LF---_1LC1LF MitM_CTL n 2 maxT 30000 RWL_mod H 4 tH 0 mnc 2 mod 1 run
+1RB1LA_0LA1RC_0RB1RD_0LE0RD_0LF---_1LF0RC MitM_CTL n 2 maxT 30000 RWL_mod H 4 tH 0 mnc 2 mod 1 run
+1RB1LA_0LA1RC_0RB0RD_0LE1RD_---0LF_0RC1LF MitM_CTL n 2 maxT 30000 RWL_mod H 4 tH 0 mnc 2 mod 1 run
+1RB1LA_0LA1LC_1RE0LD_0LC0RF_1RF0RE_0RB--- chr_H 4 chr_LRUH 4 chr_LRUn 1 chr_asth 1 MitM_CTL n 1 maxT 100000 NG NG_n 2 tH 0 pos_mod 1 run
