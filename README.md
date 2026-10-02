@@ -7,8 +7,8 @@ All 388 BBrev(6) holdouts (Shawn Ligocki, July 31, 2025, [`BBrev6_holdouts_388.t
 | Evidence | Machines |
 | --- | --- |
 | Settled locally by standard deciders and also proved by name in the BB(6) Rocq files | 102 |
-| Settled locally by standard deciders; not named in any BB(6) file, but settled by the decider family used in the BB(6) TNF enumeration (`verify/Enumerate62.v`) | 212 |
-| Not settled locally; proved by name in the BB(6) Rocq files (`RRBAv3/4/5.v`, all 74 references checked against the source) | 74 |
+| Proven non-halting locally by mxdys's MitM-CTL deciders (NG 180, CPS_LRU 17, RWL_mod 15; built-in CTL verifier on); not named in any BB(6) Rocq file | 212 |
+| Not settled locally; proved non-halting by name in the BB(6) Rocq files (`~halts` lemmas in `RRBAv3/4/5.v`, all 74 references checked against the source) | 74 |
 | **Total** | **388** |
 | A decider claiming a machine **halts** | 0 |
 
@@ -31,7 +31,7 @@ Reference database: [ccz181078/busycoq](https://github.com/ccz181078/busycoq) `B
 ## Caveats
 
 - **The 304 Rocq lemmas haven't been compiled yet.** The next step is to drop `bbrev6_ctl_lemmas.v` into busycoq `BB6/verify` and build.
-- **The 212 machines not named in BB(6) files** rest on two things: the same deciders settling them here, and their absence from every BB(6) holdout list. That they were settled inside `Enumerate62.v` is an inference, not checked machine by machine.
+- **The 212 machines not named in BB(6) files** are proven non-halting here by the MitM-CTL deciders (each run verifies its closed tape language before reporting NONHALT); their non-halting status does not rely on their absence from the BB(6) holdout lists. The only unverified point is *where* in the BB(6) pipeline they were originally decided (presumably inside `verify/Enumerate62.v`). None of the 388 halts within 10^8 steps.
 - **The value BBrev(6) = 537,556** also depends on the completeness of the reversible enumeration (`Enumerate.py --only-reversible`) for halting machines.
 
 ## Also available
